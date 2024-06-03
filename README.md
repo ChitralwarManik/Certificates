@@ -1,12 +1,10 @@
 # Certificates 
 
-## AWS Fundamentals
-
 <img width="1000" alt="Gui" src="https://github.com/ChitralwarManik/Certificates/blob/main/Images/AWS%20Fundamentals_page-0001.jpg">
 
-
+---
 <img width="1000" alt="Gui" src="https://github.com/ChitralwarManik/Certificates/blob/main/Images/AI%20For%20Everyone_page-0001.jpg">
-
+---
 
 <img width="1000" alt="Gui" src="https://github.com/ChitralwarManik/Certificates/blob/main/Images/Data%20Analysis%20with%20Python_page-0001.jpg">
 
